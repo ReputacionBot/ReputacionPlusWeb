@@ -1,0 +1,25 @@
+{
+  "name": "reputacionplusweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReputacionBot/ReputacionPlusWeb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReputacionBot/ReputacionPlusWeb/issues"
+  },
+  "homepage": "https://github.com/ReputacionBot/ReputacionPlusWeb#readme",
+  "dependencies": {
+    "dotenv-webpack": "^7.1.0",
+    "pm2": "^5.2.0",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
