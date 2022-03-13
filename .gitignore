@@ -3,7 +3,7 @@ node_modules
 
 # sensitive info
 .env
-.ssh/.*bot*
+.ssh/.*bot_rsa*
 
 # builds
 dist

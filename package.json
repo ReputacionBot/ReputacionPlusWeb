@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-web": "webpack",
+    "serve-web": "pm2 serve src/web"
   },
   "repository": {
     "type": "git",
